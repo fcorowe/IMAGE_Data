@@ -2,6 +2,7 @@ Data from IMAGe Project prepared to use with IMAGe Studio software (www.gpem.uq.
 --------------------------------------------------------------------------------------------------
 Internal migration data of Burkina Faso
 Based on migration and population data from: IPUMS (https://international.ipums.org/international)
+Collection instrument: Census
 Year: 2006
 Number and original administrative geography of BSUs: 45 Provinces
 Migration data type: Transition

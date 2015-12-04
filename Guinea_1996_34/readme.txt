@@ -2,6 +2,7 @@ Data from IMAGe Project prepared to use with IMAGe Studio software (www.gpem.uq.
 --------------------------------------------------------------------------------------------------
 Internal migration data of Guinea
 Based on migration and population data from: IPUMS (https://international.ipums.org/international)
+Collection instrument: Census
 Year: 1996
 Number and original administrative geography of BSUs: 34 Prefectures
 Migration data type: Last Move

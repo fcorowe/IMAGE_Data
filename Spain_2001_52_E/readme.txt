@@ -2,6 +2,7 @@ Data from IMAGe Project prepared to use with IMAGe Studio software (www.gpem.uq.
 --------------------------------------------------------------------------------------------------
 Internal migration data of Spain
 Based on migration and population data from: IPUMS (https://international.ipums.org/international)
+Collection instrument: Register
 Year: 2001
 Number and original administrative geography of BSUs: 52 Provinces
 Migration data type: Event
